@@ -10,8 +10,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-15 07:19+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: Taeyoon Kim <deepthought@postech.ac.kr>\n"
+"Language-Team: Korean (https://python.flowdas.com)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,22 +19,24 @@ msgstr ""
 
 #: ../Doc/faq/design.rst:3
 msgid "Design and History FAQ"
-msgstr ""
+msgstr "구조와 역사에 대한 FAQ"
 
 #: ../Doc/faq/design.rst:6
 msgid "Contents"
-msgstr ""
+msgstr "목차"
 
 #: ../Doc/faq/design.rst:11
 msgid "Why does Python use indentation for grouping of statements?"
-msgstr ""
+msgstr "파이썬은 왜 들여쓰기를 사용해 코드를 구분하나요?"
 
 #: ../Doc/faq/design.rst:13
 msgid ""
 "Guido van Rossum believes that using indentation for grouping is "
 "extremely elegant and contributes a lot to the clarity of the average "
 "Python program. Most people learn to love this feature after a while."
-msgstr ""
+msgstr "파이썬을 만든 귀도 반 로섬은 들여쓰기야 말로" 
+"코드의 가독성을 높여주는 아주 우아한 방법이라고 생각하기 때문입니다."
+"대부분의 사람들도 파이써을 쓰다보면 곧 깨닫게 됩니다."
 
 #: ../Doc/faq/design.rst:17
 msgid ""
